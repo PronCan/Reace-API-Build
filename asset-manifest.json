@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-API-Build/static/css/main.285f3907.css",
-    "main.js": "/React-API-Build/static/js/main.cea9db8a.js",
+    "main.js": "/React-API-Build/static/js/main.f2b88fb8.js",
     "static/js/787.cdbe2923.chunk.js": "/React-API-Build/static/js/787.cdbe2923.chunk.js",
     "static/media/Introbg.png": "/React-API-Build/static/media/Introbg.a239e80bbdd288f168d8.png",
     "static/media/musical-intro.png": "/React-API-Build/static/media/musical-intro.973a40148ec2557692fa.png",
@@ -9,11 +9,11 @@
     "static/media/movie-intro.png": "/React-API-Build/static/media/movie-intro.d303ff4eb88d64bc5662.png",
     "index.html": "/React-API-Build/index.html",
     "main.285f3907.css.map": "/React-API-Build/static/css/main.285f3907.css.map",
-    "main.cea9db8a.js.map": "/React-API-Build/static/js/main.cea9db8a.js.map",
+    "main.f2b88fb8.js.map": "/React-API-Build/static/js/main.f2b88fb8.js.map",
     "787.cdbe2923.chunk.js.map": "/React-API-Build/static/js/787.cdbe2923.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.285f3907.css",
-    "static/js/main.cea9db8a.js"
+    "static/js/main.f2b88fb8.js"
   ]
 }
